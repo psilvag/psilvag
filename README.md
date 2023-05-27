@@ -3,7 +3,7 @@
     <img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy-downsized.gif" width="400"  />
     <h1 align="center"> Hola  &#128075;, soy Pablo Silva</h1>
     <h1 align="center">Bienvenido a mi mundo &#127759; </h1>
-    <h3 align="center">Desarrollador web full-Stack, apasionado por el desarollo de tecnolgía y programación. Tengo 4 años de experiencia desarrollando software para sistemas hardware, actualmente me especializo en el desarrollo de web. </h3>
+    <h3 align="center">Desarrollador web full-Stack, apasionado por el desarrollo de tecnología y programación. Tengo 4 años de experiencia desarrollando software para sistemas hardware, actualmente me especializo en el desarrollo web. </h3>
 </div>
 
 <div id="socials" align="center">
