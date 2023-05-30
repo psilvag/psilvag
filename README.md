@@ -25,7 +25,7 @@
     <li>&#128190;Actualmente me especializo en Backend</li>
     <li>&#128242; Constantemente voy aprendiendo sobre el manejo de base de datos y la integración de funcionalidades backend </li>
     <li>&#128161;Estoy buscando colaborar en proyectos que me permitan ganar mas experiencia</li>
-    <li>&#128188; Busco trabajar en proyectos full-satck</li>
+    <li>&#128188; Busco trabajar en proyectos full-stack</li>
     <li>&#128231; Como contactarme:<a href="mailto:pmarcelosilvag@gmail.com">pmarcelosilvag@gmail.com</a></li>
 
   </ul>
