@@ -14,7 +14,7 @@
   
    <div align="center" >
    <a href="https://www.linkedin.com/in/pablo-silvawebdeveloper/" target="_blank" >Ver Linkedin</a>
-   <a href="https://main--sunny-pixie-07ea23.netlify.app/"  target="_blank" > Ver repositorio </a>
+   <a href="https://main--sunny-pixie-07ea23.netlify.app/"  target="_blank" > Ver portafolio </a>
    </div>   
   
 </div>
@@ -32,7 +32,7 @@
 </div>
 
 <div align="left">
-  <h1 align="center"> &#9997; Lenguajes y herramientas: </h1>
+  <h1 align="center"> &#9997; Lenguajes y herramientas: [Javascript | Python | C++ | SQL] </h1>
 
   <h2 align="left"> &#128268; Lenguajes </h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="90" height="90" alt="Javascript"  />
@@ -40,7 +40,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="90" height="90" alt="C++"  />
   <img src="https://cdn-icons-png.flaticon.com/512/337/337953.png" width="90" height="90" alt="SQL"  /> 
 
-  <h2 align="left"> &#128189; Tecnologías </h2>
+  <h2 align="left"> &#128189; Tecnologías [Html5 | CSS3 | React | TailwindCss | Bootstrap | NodeJs | Postgre | MySQL | Express] </h2>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="90" height="90" alt="HTML5"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="90" height="90" alt="CSS3"  />
@@ -52,7 +52,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="90" height="90" alt="MySQL"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="90" height="90" alt="Express"  />
 
-  <h2 align="left"> &#10002; Herramientas </h2>
+  <h2 align="left"> &#10002; Herramientas [GitHub | VsCode | Jira | Linux Distro Ubuntu]</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="90" height="90" alt="GitHub"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="90" height="90" alt="VSCode"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" width="90" height="90" alt="Jira"  />
