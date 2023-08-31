@@ -13,7 +13,7 @@
    <img src="https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2022/01/become-web-developer.jpg"  width="100" /> </a>
   
    <div align="center" >
-   <a href="https://www.linkedin.com/in/pablo-silvawebdeveloper/" target="_blank" >View Linkedin</a>
+   <a href="https://www.linkedin.com/in/pablo-silvawebdeveloper/" target="_blank" > View Linkedin</a>
    <a href="https://main--sunny-pixie-07ea23.netlify.app/"  target="_blank" > View portfolio </a>
    </div>   
   
@@ -32,7 +32,7 @@
 </div>
 
 <div align="left">
-  <h1 align="center"> &#9997; Languages and tools: [Javascript | Python | C++ | SQL] </h1>
+  <h1 align="center"> &#9997; Languages and tools: [Javascript | Python | PHP | C | C++ | SQL] </h1>
 
   <h2 align="left"> &#128268; Lenguages </h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="90" height="90" alt="Javascript"  />
