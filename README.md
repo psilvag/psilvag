@@ -37,6 +37,7 @@
   <h2 align="left"> &#128268; Lenguages </h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="90" height="90" alt="Javascript"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="90" height="90" alt="Python"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="90" height="90" alt="PHP"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="90" height="90" alt="C++"  />
   <img src="https://cdn-icons-png.flaticon.com/512/337/337953.png" width="90" height="90" alt="SQL"  /> 
 
