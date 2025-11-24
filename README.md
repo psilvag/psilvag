@@ -3,7 +3,7 @@
     <img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy-downsized.gif" width="400"  />
     <h1 align="center"> Hi  &#128075;, I´m Pablo Silva</h1>
     <h1 align="center"> Welcome to my world &#127759; </h1>
-    <h3 align="center">Full-Stack web developer, passionate about technology development and programming. I have 4 years of experience developing software for hardware systems, currently I specialize in web development.</h3>
+    <h3 align="center">Full-Stack web developer, passionate about technology development and programming. I have 3 years of experience developing software, currently I specialize in software for fintech's and Bank.</h3>
 </div>
 
 <div id="socials" align="center">
@@ -32,7 +32,7 @@
 </div>
 
 <div align="left">
-  <h1 align="center"> &#9997; Languages and tools: [Javascript | Python | PHP | C | C++ | SQL] </h1>
+  <h1 align="center"> &#9997; Languages and tools: [Javascript-TypeScript | Python | PHP | C | C++ | SQL | C# | Kotlin] </h1>
 
   <h2 align="left"> &#128268; Lenguages </h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="90" height="90" alt="Javascript"  />
@@ -41,7 +41,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="90" height="90" alt="C++"  />
   <img src="https://cdn-icons-png.flaticon.com/512/337/337953.png" width="90" height="90" alt="SQL"  /> 
 
-  <h2 align="left"> &#128189; Technologies [Html5 | CSS3 | React | TailwindCss | Bootstrap | NodeJs | Postgre | MySQL | Express] </h2>
+  <h2 align="left"> &#128189; Technologies [Html5 | CSS3 | React | TailwindCss | Bootstrap | NodeJs | Postgre | MySQL | Express | C# | .NET | DevOps | Azure | CI-CD | Yaml | Docker | Angular] </h2>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="90" height="90" alt="HTML5"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="90" height="90" alt="CSS3"  />
